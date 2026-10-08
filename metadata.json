@@ -1,0 +1,7 @@
+{
+  "name": "Pocket Storybook - Graded Language Reader",
+  "description": "A pocket storybook with spacious reading pages, slate-blue level markers, slim amber bookmarks, instant word lookup, audio narration, and comprehension checks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
